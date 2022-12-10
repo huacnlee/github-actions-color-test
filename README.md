@@ -4,8 +4,8 @@ This repo for test GitHub Action Color output.
 
 ## GitHub Action
 
-<img width="985" alt="image" src="https://user-images.githubusercontent.com/5518/206862257-db038c3d-d468-4047-b29e-6fc414e08dae.png">
+![SCR-20221211-xe](https://user-images.githubusercontent.com/5518/206865507-511af105-565a-4976-9a70-53b1ab3a4f21.png)
 
 ## GitLab CI
 
-![SCR-20221210-wih](https://user-images.githubusercontent.com/5518/206862502-9b6116ba-9338-4fb1-adef-cb1c723bc0d7.png)
+![SCR-20221211-xj](https://user-images.githubusercontent.com/5518/206865510-1c4dbad0-bf36-4180-8385-2c99061f2644.png)
