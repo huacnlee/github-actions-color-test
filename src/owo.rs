@@ -40,4 +40,10 @@ pub fn test() {
         " ".on_color(Yellow),
         "World".color(Yellow)
     );
+    println!(
+        "{}{}{}",
+        "Test".color(Yellow),
+        "ㅤ".on_color(Yellow),
+        "U+3164".color(Yellow)
+    );
 }

@@ -51,4 +51,10 @@ pub fn test() {
         Style::new().on(Yellow).fg(Black).paint(" "),
         Yellow.paint("World")
     );
+    println!(
+        "{}{}{}",
+        Yellow.paint("Test"),
+        Style::new().on(Yellow).fg(Black).paint("ㅤ"),
+        Yellow.paint("U+3164")
+    );
 }
