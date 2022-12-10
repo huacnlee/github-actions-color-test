@@ -18,6 +18,12 @@ fn main() {
     println!(
         "{}{}{}",
         "Hello".color(Red),
+        "  ".on_red(),
+        "World".color(Red)
+    );
+    println!(
+        "{}{}{}",
+        "Hello".color(Red),
         " ".on_color(Red),
         "World".color(Red)
     );
